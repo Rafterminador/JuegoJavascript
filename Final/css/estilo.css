@@ -77,7 +77,10 @@ body {
     display: none;
   }
 
-  /* para que todos los textos esten en formato Arial */
-  *{
+  * {
     font-family: 'Arial';
+  }
+  #number {
+    font-size:50px;
+    color:#434343;
   }
